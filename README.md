@@ -30,3 +30,12 @@ https://github.com/kosme/arduinoFFT
 # Schematics
 
 ![alt text](https://github.com/mzashh/32-Band-Audio-Visualizer/blob/main/schematics/schematic.png?raw=true)
+
+# Software
+
+Method 1: Compiling the Arduino sketch and flashing it to the microcontroller.
+
+Method 2 (not recommended): Flashing the precompiled hex file with xLoader.
+
+https://github.com/binaryupdates/xLoader
+
