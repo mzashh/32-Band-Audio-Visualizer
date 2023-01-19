@@ -19,6 +19,8 @@ Parts list
 
 2x 100nf ceramic capacitors
 
+1x push button
+
 1x 8x32 MAX7219 dot matrix
 
 1x TRS/TRRS audio jack
