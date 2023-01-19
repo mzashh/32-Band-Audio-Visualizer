@@ -27,3 +27,6 @@ Parts list
 
 1x 5v PSU
 
+# Schematics
+
+![alt text](https://github.com/[mzashh]/[32-Band-Audio-Visualizer]/blob/[main]/schematics/schematic.png?raw=true)
