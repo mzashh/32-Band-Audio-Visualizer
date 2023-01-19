@@ -9,27 +9,32 @@ https://github.com/kosme/arduinoFFT
 
 # Hardware
 
-1x Any Arduino based around the ATMega328p, preferably a nano
+* 1x Any Arduino based around the ATMega328p, preferably a nano
 
-1x 10k resistor
+* 1x 10k resistor
 
-2x 100k resistor
+* 2x 100k resistor
 
-3x 5k resistor
+* 3x 5k resistor
 
-2x 100nf ceramic capacitors
+* 2x 100nf ceramic capacitors
 
-1x push button
+* 1x push button
 
-1x 8x32 MAX7219 dot matrix
+* 1x 8x32 MAX7219 dot matrix
 
-1x TRS/TRRS audio jack
+* 1x TRS/TRRS audio jack
 
-1x 5v PSU
+* 1x 5v PSU
 
 *  For people using a Promini you will have to solder a wire to the AREF pin on the IC, refer to the following picture:
 
    ![alt text](https://github.com/mzashh/32-Band-Audio-Visualizer/blob/main/schematics/arefpromini.png?raw=true)
+ 
+* Also the Promini has no 3.3v on board, so you will have to use a voltage divider to create it onboard, refer to the followinf picture:
+
+   ![alt text](https://github.com/mzashh/32-Band-Audio-Visualizer/blob/main/schematics/voltagedivider.png?raw=true)
+
 
 # Schematics
 
