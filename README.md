@@ -46,7 +46,7 @@ A 32 band audio visualizer based around the ATMega328p
 
 * Method 2(not recommended): Flashing the precompiled hex file with xLoader.
  
-* This method is not recommended as, parameters like Audio Response can't be fine tuned.
+   This method is not recommended as, parameters like Audio Response can't be fine tuned.
 
    https://github.com/binaryupdates/xLoader
 
