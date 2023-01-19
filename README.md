@@ -29,4 +29,4 @@ Parts list
 
 # Schematics
 
-![alt text](https://github.com/[mzashh]/[32-Band-Audio-Visualizer]/blob/[main]/schematics/schematic.png?raw=true)
+![alt text](https://github.com/mzashh/32-Band-Audio-Visualizer/blob/main/schematics/schematic.png?raw=true)
