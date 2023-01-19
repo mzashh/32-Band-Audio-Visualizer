@@ -7,7 +7,7 @@ https://github.com/MajicDesigns/MD_MAX72XX
 
 https://github.com/kosme/arduinoFFT
 
-# Parts list
+# Hardware
 
 1x Any Arduino based around the ATMega328p, preferably a nano
 
@@ -27,6 +27,10 @@ https://github.com/kosme/arduinoFFT
 
 1x 5v PSU
 
+* For people using a Promini you will have to solder a wire to the AREF pin on the IC, refer to the following picture:
+
+![alt text](https://github.com/mzashh/32-Band-Audio-Visualizer/blob/main/schematics/arefpromini.png?raw=true)
+
 # Schematics
 
 ![alt text](https://github.com/mzashh/32-Band-Audio-Visualizer/blob/main/schematics/schematic.png?raw=true)
@@ -35,7 +39,7 @@ https://github.com/kosme/arduinoFFT
 
 Method 1: Compiling the Arduino sketch and flashing it to the microcontroller.
 
-Method 2 (not recommended): Flashing the precompiled hex file with xLoader.
+Method 2(not recommended): Flashing the precompiled hex file with xLoader.This method is not recommended as, parameters like Audio Response can't be fine tuned.
 
 https://github.com/binaryupdates/xLoader
 
