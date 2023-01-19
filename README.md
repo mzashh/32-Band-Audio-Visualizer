@@ -1,12 +1,6 @@
 # 32-Band-Audio-Visualizer
 A 32 band audio visualizer based around the ATMega328p 
 
-# Required libraries
-
-https://github.com/MajicDesigns/MD_MAX72XX
-
-https://github.com/kosme/arduinoFFT
-
 # Hardware
 
 * 1x Any Arduino based around the ATMega328p, preferably a nano
@@ -42,9 +36,15 @@ https://github.com/kosme/arduinoFFT
 
 # Software
 
-Method 1: Compiling the Arduino sketch and flashing it to the microcontroller.
+* Required libraries
 
-Method 2(not recommended): Flashing the precompiled hex file with xLoader.This method is not recommended as, parameters like Audio Response can't be fine tuned.
+   https://github.com/MajicDesigns/MD_MAX72XX
+
+   https://github.com/kosme/arduinoFFT
+
+* Method 1: Compiling the Arduino sketch and flashing it to the microcontroller.
+
+* Method 2(not recommended): Flashing the precompiled hex file with xLoader.This method is not recommended as, parameters like Audio Response can't be fine tuned.
 
 https://github.com/binaryupdates/xLoader
 
