@@ -36,7 +36,7 @@ https://github.com/kosme/arduinoFFT
 
    ![alt text](https://github.com/mzashh/32-Band-Audio-Visualizer/blob/main/schematics/arefpromini.png?raw=true)
  
-* Also the Promini has no 3.3v on board, so you will have to use a voltage divider or a voltage regulator to generate it onboard, refer to the following picture:
+* Also the Promini has no 3.3v onboard, so you will have to use a voltage divider or a voltage regulator to generate it refer to the following picture:
 
    ![alt text](https://github.com/mzashh/32-Band-Audio-Visualizer/blob/main/schematics/voltagedivider.jpg?raw=true)
 
