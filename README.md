@@ -1,5 +1,5 @@
 # 32-Band-Audio-Visualizer
-A 32 band audio visualizer based around the ATmega328p 
+A 32 band audio visualizer based around the ATMega328p 
 
 # Required libraries
 
@@ -9,7 +9,7 @@ https://github.com/kosme/arduinoFFT
 
 # Parts list
 
-1x Any Arduino based around the ATmega328p, preferably a nano
+1x Any Arduino based around the ATMega328p, preferably a nano
 
 1x 10k resistor
 
