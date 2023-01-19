@@ -1,5 +1,6 @@
 # 32-Band-Audio-Visualizer
-A 32 band audio visualizer based around the ATMega328p 
+
+A 32 Band Audio Visualizer usinf FFT based around the ATMega328p
 
 # Hardware
 
