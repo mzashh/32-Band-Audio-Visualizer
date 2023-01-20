@@ -30,7 +30,7 @@ char data_avgs[xres];
 int yvalue;
 int displaycolumn , displayvalue;
 int peaks[xres];
-const int buttonPin = 6;                                      // the number of the pushbutton pin
+const int buttonPin = 5;                                      // the number of the pushbutton pin
 int state = HIGH;                                             // the current reading from the input pin
 int previousState = LOW;                                      // the previous reading from the input pin
 int displaymode; 
