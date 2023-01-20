@@ -27,7 +27,7 @@ A 32 Band Audio Visualizer using FFT based around the ATMega328p
    ![alt text](https://github.com/mzashh/32-Band-Audio-Visualizer/blob/main/schematics/schematics.png?raw=true)
 
 
-*  For people using a Pro mini sine there is no breakout for the AREF pin, you will have to solder a wire to the AREF pin on the IC, refer to the following picture:
+*  For people using a Pro mini since there is no breakout for the AREF pin on the Pro mini, you will have to solder a wire to the AREF pin on the IC, refer to the following picture:
 
    ![alt text](https://github.com/mzashh/32-Band-Audio-Visualizer/blob/main/schematics/arefpromini.png?raw=true)
  
